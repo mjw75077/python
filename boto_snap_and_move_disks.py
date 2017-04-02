@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 
-
 import boto3
 import sys
 
